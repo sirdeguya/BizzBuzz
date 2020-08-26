@@ -1,4 +1,4 @@
-for x in range(1,31):
+for x in range(1,101):
     if x % 3 == 0:
         print('Fiz',end ="")
     if x % 5 == 0:
